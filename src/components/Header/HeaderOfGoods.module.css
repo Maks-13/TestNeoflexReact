@@ -1,0 +1,64 @@
+
+body{
+    background: #EAEAEA;
+  }
+  
+  .block{
+    position: relative;
+    width: 1135px;
+    height: 60px;
+    left: 165px;
+    /* background-color: red; */
+  }
+  
+  .new{
+    display: inline-block;
+    margin-top: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #101010;
+  }
+  
+  
+  .heartLogo{
+    position: absolute;
+    float: right;
+    top: 20px;
+    right: 99.51px;
+  }
+  
+  .purchasingLogo{
+   position: absolute;
+   top: 18px;
+   right: 31.31px;
+  }
+  
+  .heartLogoCircle{
+    position: absolute;
+    top: 12px;
+    width: 17.4px;
+    height: 17.4px;
+    left: 1029px;
+    border-radius: 50%;
+    z-index: 1;
+    background: #FFA542;
+  }
+  
+  .purchasingLogoCircle{
+    position: absolute;
+    top: 13px;
+    width: 17.4px;
+    height: 17.4px;
+    left: 1095.49px;
+    border-radius: 50%;
+    z-index: 1;
+    background: #FFA542;
+  }
+  
+  .App {
+    text-align: center;
+  } 
+  

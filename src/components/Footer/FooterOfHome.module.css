@@ -1,0 +1,148 @@
+
+.mainBlock{
+    position: absolute;
+    width: 1110px;
+    height: 149px;
+    left: 182px;
+    top: 1480px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px 30px 0px 0px;
+}
+
+.mainOuterBlock{
+    position: absolute;
+    left: 29px;
+    top: 29px;
+    right: 336px;
+}
+
+.textOuterBlock{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #101010;
+}
+
+.mainInnerBlock{
+    position: absolute;
+    left: 347px;
+    top: 33.72px;
+    width: 427px;
+    height: 82.8px;
+}
+
+.textInnerBlock1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: 'regular';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.textInnerBlock2{
+    position: absolute;
+    right: 336px;
+    top: 34.42px; 
+
+    font-family: 'Montserrat';
+    font-style: 'regular';
+    font-weight: 400px;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.textInnerBlock3{
+    position: absolute;
+    top: 31.7px;
+    left: 0px;
+
+    font-family: 'Montserrat';
+    font-style: 'regular';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.textInnerBlock4{
+    position: absolute;
+    left:0px;
+    bottom:0px;
+
+    font-family: 'Montserrat';
+    font-style: 'regular';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.picture{
+    position: absolute;
+    left: 621.67px;
+    bottom: 39px;
+}
+
+.textInnerBlock5{
+    position: absolute;
+    top: 91px;
+    left: 657px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFA542;
+}
+
+.textInnerBlock6{
+    position: absolute;
+    left: 700px;
+    top: 91px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #101010;
+}
+
+.vkPicture{
+    position: absolute;
+    left: 957px;
+    top: 34.16px;
+}
+
+.telegramPicture{
+    position: absolute;
+    left: 1005px;
+    top: 29px;
+}
+
+.whatsappPicture{
+    position: absolute;
+    left: 1053px;
+    top: 29px;
+}

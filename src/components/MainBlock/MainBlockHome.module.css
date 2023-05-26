@@ -1,0 +1,44 @@
+
+.first_main_block{
+    position: relative;
+    margin-top: 28px;
+    margin-left: 182px;
+    width: 1110px;
+    height: auto;
+    /* background-color: blue; */
+}
+
+.second_main_block{
+    position: relative;
+    margin-top: 28.35px;
+    margin-left: 182px;
+    width: 1110px;
+    height: auto;
+    /* background-color: blue; */
+}
+
+.text{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 567px;
+    font-family: 'Montserrat';
+    font-style: 'SemiBold';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #838383; 
+}
+
+.big_flex_container{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+
+.second_main_block{
+    position: relative;
+    width: 1110px;
+    height: auto;
+}
